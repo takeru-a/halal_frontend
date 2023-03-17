@@ -1,0 +1,278 @@
+.detail-page {
+    width: 100%;
+    /* height: 1250px; */
+    display: flex;
+    /* position: relative; */
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .ulrdnavilist {
+    /* top: 186px; */
+    flex: 1;
+    left: 0px;
+    right: 0px;
+    width: 980px;
+    height: 48px;
+    margin: auto;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .lirdnavitop {
+    top: 1px;
+    left: 0px;
+    width: 164px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-color: rgba(255, 229, 129, 1);
+  }
+  .text {
+    /* top: 10px; */
+    left: 60.578125px;
+    color: rgba(255, 255, 255, 1);
+    width: 43px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Meiryo;
+    font-weight: 700;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .lirdnavitable {
+    top: 1px;
+    left: 164.15625px;
+    width: 163px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(238, 236, 228, 1);
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 245, 1) 100%);
+  }
+  .text02 {
+    /* top: 14.5px; */
+    left: 34.84375px;
+    color: rgba(70, 63, 45, 1);
+    width: 98px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Meiryo;
+    font-weight: 700;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .lirdnavimenu {
+    top: 1px;
+    left: 327.3125px;
+    width: 163px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(238, 236, 228, 1);
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 245, 1) 100%);
+  }
+  .a {
+    top: 0px;
+    left: 0px;
+    width: 162px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .text04 {
+    /* top: 14px; */
+    left: 16.75px;
+    color: rgba(70, 63, 45, 1);
+    width: 131px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Meiryo;
+    font-weight: 700;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text05 {
+    color: rgba(70, 63, 45, 1);
+    font-weight: 700;
+  }
+  .lirdnaviphoto {
+    top: 1px;
+    left: 490.46875px;
+    width: 163px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(238, 236, 228, 1);
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 245, 1) 100%);
+  }
+  .a1 {
+    top: 0px;
+    left: 0px;
+    width: 162px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .text06 {
+    /* top: 10.5px; */
+    left: 47.53125px;
+    color: rgba(7, 7, 7, 1);
+    width: 79px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .lirdnavireview {
+    top: 1px;
+    left: 653.625px;
+    width: 163px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(238, 236, 228, 1);
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 245, 1) 100%);
+  }
+  .a2 {
+    top: 0px;
+    left: 0px;
+    width: 162px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .text08 {
+    /* top: 14px; */
+    left: 51.25px;
+    color: #463f2d;
+    width: 60px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Meiryo;
+    font-weight: 700;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .lirdnavicoupon {
+    top: 1px;
+    left: 816.78125px;
+    width: 163px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(238, 236, 228, 1);
+    border-style: solid;
+    border-width: Symbol(figma.mixed)px;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 248, 245, 1) 100%);
+  }
+  .a3 {
+    top: 0px;
+    left: 0px;
+    width: 162px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .text09 {
+    /* top: 14px; */
+    left: 23.109375px;
+    color: rgba(0, 0, 0, 1);
+    width: 116px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Meiryo;
+    font-weight: 700;
+    line-height: 45px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text10 {
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+  }
+  
